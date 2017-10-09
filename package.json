@@ -1,0 +1,22 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "Rest API for finding developers in your location within 100000 m",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SiyabongaNzulwana/Rest-API.git"
+  },
+  "author": "Siyabonga Nzulwana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SiyabongaNzulwana/Rest-API/issues"
+  },
+  "homepage": "https://github.com/SiyabongaNzulwana/Rest-API#readme",
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
